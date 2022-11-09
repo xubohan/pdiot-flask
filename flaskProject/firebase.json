@@ -1,0 +1,8 @@
+{
+  "emulators": {
+    "singleProjectMode": true
+  },
+  "remoteconfig": {
+    "template": "remoteconfig.template.json"
+  }
+}
